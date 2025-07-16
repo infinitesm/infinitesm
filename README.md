@@ -1,8 +1,5 @@
 # Kyle Dudley
 Electrical Engineering student at Texas A&M (Class of 2027), focused on embedded systems, machine learning, and software development.
-## Current Work
-- **Visient** — ML-based Minecraft anti-cheat using time-series analysis.
-- **Tinycardia** — TinyML ECG classifier on STM32.
 ## Skills
 C, C++, Python, Java  
 STM32, TinyML, SPI, LTspice, FastAPI  
