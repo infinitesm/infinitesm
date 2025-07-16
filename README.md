@@ -1,4 +1,4 @@
-# Kyle Dudley
+# Hi there :)
 Electrical Engineering student at Texas A&M (Class of 2027), focused on embedded systems, machine learning, and software development.
 ## Skills
 C, C++, Python, Java  
